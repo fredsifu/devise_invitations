@@ -3,5 +3,5 @@ fr:
     mailer:
       instructions:
         subject: "Vous êtes invité!"
-        hello: "%{email} vous a invité à joindre %{app_name}.""
+        hello: "%{email} vous a invité à joindre %{app_name}."
         join: "Accepter l'invitation"
